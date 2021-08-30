@@ -11,6 +11,6 @@ Since the Javapoint's Banking project depends on local MySQL Database and have s
 
 ## Contributions :
 I welcome all the contributors who wish to help me in this project.
-fork the repo and start working on it.
+fork the repo and start working on it. (Preferably create a new branch)
 Generate a pull request if you want to merge your code to my project.
 Star the repository if you like it. 
