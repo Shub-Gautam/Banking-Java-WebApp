@@ -18,9 +18,9 @@ public class CreateServlet extends HttpServlet {
 
 		response.setContentType("text/html");
 		PrintWriter out=response.getWriter();
-		
-		String username=request.getParameter("username");
-		String password=request.getParameter("password");
+
+		String username = request.getParameter("username");
+		String password = request.getParameter("password");
 		String  repassword=request.getParameter("repassword");
 		
 		String amoun=request.getParameter("amount");
