@@ -55,6 +55,7 @@ function dil(form)
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Global Banking ..</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 <link href="style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 function ctck()
@@ -157,7 +158,7 @@ var sds = document.getElementById("dum");
     	    <center><img  alt="business"  width="196" height="106"></center><br>
 		    <p>Each people plan their site layouts depending upon their business type. Here comes a free designer template which provides you with a selection of different kinds of webdesign   starting from business template, fashion template, media template, Science template, Arts template and much more.</p>
 	  
-  Copyright © Your Company Name</div>
+  Copyright ï¿½ Your Company Name</div>
 </div>
 
 <script type="text/javascript">

@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -45,6 +43,7 @@ function dil(form)
 </SCRIPT>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Global Banking ..</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 <link href="style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 function ctck()
@@ -57,6 +56,8 @@ var sds = document.getElementById("dum");
 </head>
 
 <body>
+<%@include file="header.jsp" %>
+
 
 <div id="top_links">
   
@@ -83,16 +84,6 @@ var sds = document.getElementById("dum");
 
 <table style="width:897px; background:#FFFFFF; margin:0 auto;">
 <tr >
-	<td width="300" valign="top" style="border-right:#666666 1px dotted;">
-    	<div id="services"><h1>Services</h1><br>
-		    <ul>
-        	<li><a href="#">www.javatpoint.com</a></li>
-            <li><a href="#">www.javacstpoint.com </a></li>
-            <li><a href="#">www.javatpoint.com/forum.jsp</a></li>
-            </ul>
-			
-       </div>
-	</td>
     
     <td width="1200" valign="top">
     	<div id="welcome" style="border-right:#666666 1px dotted;"><h1>BALANCE FORM</h1><br>
@@ -147,7 +138,7 @@ var sds = document.getElementById("dum");
     	    <center><img  alt="business"  width="196" height="106"></center><br>
 		    <p>Each people plan their site layouts depending upon their business type. Here comes a free designer template which provides you with a selection of different kinds of webdesign   starting from business template, fashion template, media template, Science template, Arts template and much more.</p>
 	  
-  Copyright © Your Company Name</div>
+  Copyright ï¿½ Your Company Name</div>
 </div>
 
 <script type="text/javascript">
